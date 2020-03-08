@@ -1,4 +1,5 @@
 # travel-app
+Made with Vue.js
 
 ## Project setup
 ```
